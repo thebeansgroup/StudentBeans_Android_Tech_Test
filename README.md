@@ -20,4 +20,4 @@ Complete this app recreating the designs below, and focus on the following:
 
 ## Designs
 
-<img src="Login.png" width="500"> <img src="Photos.png" width="500">
+<img src="Login.png" width="400"> <img src="Photos.png" width="400">
